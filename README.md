@@ -2,7 +2,7 @@
 Función de JavaScript para convertir temperaturas de grados Celsius a Fahrenheit y Kelvin.
 # 🌡️ Conversor de Temperatura
 
-Este es un simple conversor de temperatura que permite al usuario ingresar un valor en grados Celsius y obtener su equivalente en grados Fahrenheit y Kelvin. El proyecto está desarrollado con JavaScript y manipulación del DOM.
+Este es un simple conversor de temperatura que permite al usuario ingresar un valor en grados Celsius y obtener su equivalente en grados Fahrenheit y Kelvin con dos décimales. El proyecto está desarrollado con JavaScript y manipulación del DOM.
 
 ## 🚀 Características
 
@@ -13,9 +13,8 @@ Este es un simple conversor de temperatura que permite al usuario ingresar un va
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **HTML**: Para la estructura de la página.
-* **CSS**: Para dar estilo a la interfaz.
 * **JavaScript**: Para la lógica de conversión y la interacción con el DOM.
+* **HTML**: Para la estructura de la página.
 
 ## 👨‍💻 ¿Cómo usarlo?
 
